@@ -1,0 +1,6 @@
+framework module UBiddingMeiYueAdapter {
+  umbrella header "UBiddingMeiYueAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
