@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'UBiddingMeiYueAdapter'
-  s.version          = '5.9.06.0'
+  s.version          = '5.9.06.1'
   s.summary          = 'UBiddingMeiYueAdapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   s.author           = { 'zhugq' => 'guoqiang.zhu@ubixai.com' }
